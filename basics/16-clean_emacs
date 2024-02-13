@@ -1,2 +1,2 @@
 #!/bin/bash
-rm scriptor~
+rm -f *~ /16-clean_emacs
