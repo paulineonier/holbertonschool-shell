@@ -32,6 +32,3 @@ am_betty - Create a script that changes your user ID to betty. You should use ex
 
 16-if_only - Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume. The file hello will be in the working directory
 
-100-Star_Wars - Write a script that will play the StarWars IV episode in the terminal.
-
-101-man_holberton - Create a man that looks exactly like this one and passes all checks.
